@@ -22,4 +22,4 @@ Once installed, open the folder containing the Dino Game project and click on th
 ### Why Processing?
 
 You may wonder why I chose to develop this project entirely from scratch using Processing, instead of using Python and imoprting TensorFlow or other machine learning libraries. The decision was driven by my desire to deeply understand all the princples and details of the AI model. By coding every sigle aspect of the project myself, I had to immerse myself into the smallest features of the algorithms and understand the underlying mathematical concepts behind them. So yes, I could've implemented this way faster and easier using Python and it's advanced libraries, but I believe that coding everything from scratch has provided a lot more of valuable insights and knowledge.
-
+
